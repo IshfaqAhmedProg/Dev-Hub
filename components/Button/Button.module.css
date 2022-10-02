@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  font-family: "Chakra Petch", sans-serif;
+  font-size: 1em;
+  line-height: 32px;
+}
+.primary {
+  padding: 0.6rem 1.5rem;
+  background: var(--accent);
+  border-radius: 5px;
+  color: var(--white);
+}
+.primary:hover{
+    background: #65eb59;
+
+}
